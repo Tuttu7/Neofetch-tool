@@ -61,7 +61,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: KWin
         `:+ssssssssssssssssss+:`                                
 ```
 
-> To display CPU speed info :
+> To Display CPU speed info :
 ```
 # neofetch  --cpu_speed on
             .-/+oossssoo+/-.               root@tuttu-Inspiron 
